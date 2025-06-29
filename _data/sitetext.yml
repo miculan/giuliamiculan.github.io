@@ -12,15 +12,24 @@
 en: &DEFAULT_EN
   header:
     title: Giulia Miculan
-    subtitle: Restorer, conservator, and researcher
-    text: Your art. Restored.
+    subtitle: Art and Restoration Services
+    text: Taking care of art, by choice.
     button: Tell Me More
     buttonlink: "#about"
 
   about:
     title: "About Me"
-    text: "my story"
-    body: "Professional restorer and conservator of cultural heritage, with a focus on paintings and works of art on paper. I am also a researcher in the field of conservation science, with a particular interest in the study of materials and techniques used by artists throughout history."
+    text: "who I am"
+    image: assets/img/about.jpg
+ #   body: "I chose to dedicate myself to art to contribute, with concrete actions, to the transmission of the human heritage in its most disarming form."
+#    body: "Professional restorer and conservator of cultural heritage, with a focus on paintings and works of art on paper. I am also a researcher in the field of conservation science, with a particular interest in the study of materials and techniques used by artists throughout history."
+    body: >
+      I am a freelance Cultural Heritage Restorer, specializing in painted artifacts on wood and textile supports, carved wooden artifacts, furnishings, and wooden structures, as well as artifacts made of synthetic materials that are worked, assembled, and/or painted.  <br/>
+      I have graduated with honors in Restoration from the [Accademia di Belle Arti di Verona](https://accademiabelleartiverona.it/it/), Italy, in 2024. My thesis focused on the restoration of a painting by Giovanni Meloni and a case study on managing his archive. I have also completed various courses and workshops on cataloging, digitalization, archive curation, and art conservation techniques.  <br/>
+      I have co-authored articles in [CoRes Magazine](https://www.cores-project.it/) on the "Giovani IGIIC" thematic group and presented at national IGIIC congresses on topics like the restoration of a painting with alkyd colors and vinyl preparation, and the importance of art conservation.  <br/>
+      I possess excellent relational skills, problem-solving abilities, leadership, and project coordination. My digital competencies include Autocad 2D, Adobe Suite (Lightroom, Bridge, Photoshop), Office Suite (Excel, Word, PowerPoint), iWork Suite, Agisoft Metashape, and FileMaker Pro. I am proactive, welcoming, and a good listener.  <br/>
+      I am interested in Registrar and Courier roles, organizational and management systems in cultural institutions and fair events, artist archives, the art market, and urban planning.  <br/>
+      I am a native Italian speaker with B2 English and A2 French proficiency.
     section: about
 
   services:
@@ -28,15 +37,18 @@ en: &DEFAULT_EN
     text: "Udine • Verona • Aarhus"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Restoration and conservation"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Collection Management"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Condition Reporting"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
+      - title: "Enhancement design"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-search
 
   portfolio:
     title: "Portfolio"
@@ -147,7 +159,7 @@ en: &DEFAULT_EN
 
   footer:
     legal: "Privacy Policy"
-    vatcode: "VAT: IT-12345678901"
+    vatcode: "VAT: IT03178490300"
     social:
       # - url: https://twitter.com
       #   icon: "fab fa-twitter"

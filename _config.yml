@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Giulia Miculan
 email      : giulia@miculan.org #this is also the email contact forms will go to
-description: "Restorer, conservator, and researcher"
+description: "Website of Giulia Miculan, restorer, conservator, and researcher"
 author     : Giulia Miculan #author name, used in the footer
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
