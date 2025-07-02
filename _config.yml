@@ -27,7 +27,7 @@ author     : Giulia Miculan #author name, used in the footer
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-949M81EPBL #Google Analytics tracking code here
 
 collections:
   portfolio:
