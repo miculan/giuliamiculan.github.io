@@ -38,17 +38,17 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Restoration and conservation"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        desc: "Professionals work to preserve, protect, and repair historical artifacts, artworks, and structures."
+        icon: fas fa-palette #find more at https://fontawesome.com/icons
       - title: "Collection Management"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        desc: "Care, organization, and preservation of objects within a museum, library, or archive."
+        icon: fas fa-landmark
       - title: "Condition Reporting"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-      - title: "Enhancement design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-search
+        desc: "Carefully documenting the physical state of an object, often a cultural artifact, to track its health and any changes over time"
+        icon: fas fa-file-contract
+      - title: "Enhancement plan design"
+        desc: "Design of conservation treatment, outlining the specific steps and techniques to repair, stabilize, and improve an artwork while preserving its original character."
+        icon: fas fa-arrow-up
 
   portfolio:
     title: "Portfolio"
