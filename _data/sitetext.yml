@@ -12,7 +12,8 @@
 en: &DEFAULT_EN
   header:
     title: Giulia Miculan
-    subtitle: Art and Restoration Services
+#    subtitle: Art and Restoration Services
+    subtitle: (Coming soon)
     text: Taking care of art, by choice.
     button: Tell Me More
     buttonlink: "#about"

@@ -30,7 +30,7 @@ analytics:
   google: G-949M81EPBL #Google Analytics tracking code here
 
 collections:
-#  portfolio:
+  portfolio:
 
 markdown: kramdown
 
