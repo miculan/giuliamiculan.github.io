@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: IGIIC Section
+subtitle: Young Italian conservationists section
 image: assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: IGIIC Section
+  subtitle: Young Italian conservationists
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Founded in January 2022, the Group aims to be a meeting and discussion point for students, recent graduates, and new professionals seeking answers to issues that cut across our profession.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- Date: June 2024
+- Client: IGIIC
+- Category: Collaborations
 

@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Ron Mueck's "Baby"
+subtitle: AROS maintainence
 image: assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Ron Mueck's "Baby"
+  subtitle: AROS maintainence
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+During my second period in Denmark, I had the occasion to work at the famous AROS Museum, in Aarhus.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: July 2024
+- Client: AROS Museum, Aarhus, DK
+- Category: Preservation
 

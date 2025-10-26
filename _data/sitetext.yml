@@ -13,24 +13,23 @@ en: &DEFAULT_EN
   header:
     title: Giulia Miculan
 #    subtitle: Art and Restoration Services
-    subtitle: (Coming soon)
+#    subtitle: (Coming soon)
     text: Taking care of art, by choice.
     button: Tell Me More
     buttonlink: "#about"
 
   about:
     title: "About Me"
-    text: "who I am"
+    # text: ""
     image: assets/img/about.jpg
- #   body: "I chose to dedicate myself to art to contribute, with concrete actions, to the transmission of the human heritage in its most disarming form."
+#    body: "I chose to dedicate myself to art to contribute, with concrete actions, to the transmission of the human heritage in its most disarming form."
 #    body: "Professional restorer and conservator of cultural heritage, with a focus on paintings and works of art on paper. I am also a researcher in the field of conservation science, with a particular interest in the study of materials and techniques used by artists throughout history."
     body: >
-      I am a freelance Cultural Heritage Restorer, specializing in painted artifacts on wood and textile supports, carved wooden artifacts, furnishings, and wooden structures, as well as artifacts made of synthetic materials that are worked, assembled, and/or painted.  <br/>
-      I have graduated with honors in Restoration from the [Accademia di Belle Arti di Verona](https://accademiabelleartiverona.it/it/), Italy, in 2024. My thesis focused on the restoration of a painting by Giovanni Meloni and a case study on managing his archive. I have also completed various courses and workshops on cataloging, digitalization, archive curation, and art conservation techniques.  <br/>
-      I have co-authored articles in [CoRes Magazine](https://www.cores-project.it/) on the "Giovani IGIIC" thematic group and presented at national IGIIC congresses on topics like the restoration of a painting with alkyd colors and vinyl preparation, and the importance of art conservation.  <br/>
-      I possess excellent relational skills, problem-solving abilities, leadership, and project coordination. My digital competencies include Autocad 2D, Adobe Suite (Lightroom, Bridge, Photoshop), Office Suite (Excel, Word, PowerPoint), iWork Suite, Agisoft Metashape, and FileMaker Pro. I am proactive, welcoming, and a good listener.  <br/>
-      I am interested in Registrar and Courier roles, organizational and management systems in cultural institutions and fair events, artist archives, the art market, and urban planning.  <br/>
-      I am a native Italian speaker with B2 English and A2 French proficiency.
+      I’m Italian, born in Udine in 1998. Eldest daughter in a family of computer scientists, I’ve combined my parents’ pragmatism with my grandparents' manual skills and passion for art.
+      After attending the art high school (mainly focused on architecture), I earned a five-year Master’s degree in Cultural Heritage Restoration from the Academy of Fine Arts in Verona.
+      I developed my specialization in preventive conservation and collections management, with experiences in Denmark.<br/>  
+      I work as a freelance with restoration companies on large-scale projects, private clients with bespoke needs, and cultural institutions on the organizational aspects of exhibitions.
+      At the same time, I contribute to scientific outreach by writing articles about my professional experiences, in agreement with the parties involved.
     section: about
 
   services:
@@ -38,22 +37,22 @@ en: &DEFAULT_EN
     text: "Udine • Verona • Aarhus"
     section: services
     list:
-      - title: "Restoration and conservation"
-        desc: "Professionals work to preserve, protect, and repair historical artifacts, artworks, and structures."
-        icon: fas fa-palette #find more at https://fontawesome.com/icons
-      - title: "Collection Management"
-        desc: "Care, organization, and preservation of objects within a museum, library, or archive."
+      - title: "Collection Maintainance"
+        desc: "I help you preserve and pass on the value of your collection. Without proper care, artworks age and can suffer from endogenous deterioration (materials disintegrating, yellowing, or breaking) or exogenous damage (dirt, impacts and falls, mold). Preventive conservation, carried out through annual maintenance, aims to observe, document, and act on these issues – whether they are early signs of decay or already evident. Relying on professionals for periodic maintenance is an act of foresight and awareness, recognizing the preciousness and uniqueness of your artworks."
         icon: fas fa-landmark
+      - title: "Conservation interventions"
+        desc: "I can help you to preserve art from any historical period. I can provide professionals work to preserve paintings on canvas, paintings on wooden panel s, polychrome wooden sculptures, contemporary art in synthetic materials."
+        icon: fas fa-palette #find more at https://fontawesome.com/icons
       - title: "Condition Reporting"
-        desc: "Carefully documenting the physical state of an object, often a cultural artifact, to track its health and any changes over time"
+        desc: "I can help you to carefully documenting the physical state of an object, often a cultural artifact, to track its health and any changes over time"
         icon: fas fa-file-contract
       - title: "Enhancement plan design"
-        desc: "Design of conservation treatment, outlining the specific steps and techniques to repair, stabilize, and improve an artwork while preserving its original character."
+        desc: "I can design of conservation treatment, outlining the specific steps and techniques to repair, stabilize, and improve an artwork while preserving its original character."
         icon: fas fa-arrow-up
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Some projects I have worked on."
     section: portfolio
     closebutton: "Close Project"
 
@@ -172,6 +171,8 @@ en: &DEFAULT_EN
 #        icon: "fab fa-github"
       - url: https://www.instagram.com/giulia.miculan/
         icon: "fab fa-instagram"
+      - url: mailto:giulia@miculan.org
+        icon: "fas fa-envelope"
 
 en-001: #English (World)
   <<: *DEFAULT_EN
