@@ -34,20 +34,20 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Udine • Verona • Aarhus"
+    text: "What I can do for you."
     section: services
     list:
-      - title: "Collection Maintainance"
+      - title: "Collection Maintenance"
         desc: "I help you preserve and pass on the value of your collection. Without proper care, artworks age and can suffer from endogenous deterioration (materials disintegrating, yellowing, or breaking) or exogenous damage (dirt, impacts and falls, mold). Preventive conservation, carried out through annual maintenance, aims to observe, document, and act on these issues – whether they are early signs of decay or already evident. Relying on professionals for periodic maintenance is an act of foresight and awareness, recognizing the preciousness and uniqueness of your artworks."
         icon: fas fa-landmark
       - title: "Conservation interventions"
-        desc: "I can help you to preserve art from any historical period. I can provide professionals work to preserve paintings on canvas, paintings on wooden panel s, polychrome wooden sculptures, contemporary art in synthetic materials."
+        desc: "I help you to preserve art from any historical period. I can provide professionals work to preserve paintings on canvas, paintings on wooden panel s, polychrome wooden sculptures, contemporary art in synthetic materials."
         icon: fas fa-palette #find more at https://fontawesome.com/icons
       - title: "Condition Reporting"
-        desc: "I can help you to carefully documenting the physical state of an object, often a cultural artifact, to track its health and any changes over time"
+        desc: "I help you to carefully documenting the physical state of an object, often a cultural artifact, to track its health and any changes over time"
         icon: fas fa-file-contract
       - title: "Enhancement plan design"
-        desc: "I can design of conservation treatment, outlining the specific steps and techniques to repair, stabilize, and improve an artwork while preserving its original character."
+        desc: "I design conservation treatments, outlining the specific steps and techniques to repair, stabilize, and improve an artwork while preserving its original character."
         icon: fas fa-arrow-up
 
   portfolio:
@@ -55,6 +55,12 @@ en: &DEFAULT_EN
     text: "Some projects I have worked on."
     section: portfolio
     closebutton: "Close Project"
+
+  collabs:
+    title: "Collaborations"
+    text: "Some ongoing collaborations."
+    section: collabs
+    closebutton: "Close Collab"
 
   timeline:
     title: "Timeline"
@@ -144,7 +150,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Me"
-    text: "email: giulia at miculan dot org"
+    text: "email: giulia@miculan.org"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
