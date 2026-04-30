@@ -1,40 +1,55 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that.
-# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'.
-# If you change this file, please restart the server process.
+# Configurazione del sito
+title: Giulia Miculan
+email: giulia@miculan.org
+description: >-
+  Archivist and project manager for art collections and artist archives.
+  Documenting, managing and enhancing artistic legacies in Italy and abroad.
+baseurl: ""
+url: "https://giuliamiculan.github.io"
 
-# Site settings
-# are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-theme: jekyll-agency
-
-url    : "https://giulia.miculan.org" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-
-title      : Giulia Miculan
-email      : giulia@miculan.org #this is also the email contact forms will go to
-description: "Website of Giulia Miculan, restorer, conservator, and researcher"
-author     : Giulia Miculan #author name, used in the footer
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
-
-locale: "en-US" # See available languages in _data/sitetext.yml
-
-analytics:
-  google: G-949M81EPBL #Google Analytics tracking code here
-
-collections:
-  portfolio:
-  collabs:
+# Informazioni personali
+author:
+  name: Giulia Miculan
+  title: Archivist & Project Manager
+  bio: Documenting, managing and enhancing art collections and artist archives.
+  location: Udine, Italy
+  birth_place: Udine, 1998
+  vat: IT03178490300
+  phone: "+39 3476749008"
   
-markdown: kramdown
+# Social media
+social:
+  linkedin: giulia-miculan
+  email: giulia@miculan.org
 
-# Uncomment following line to use Formspree form ID based URL instead of email based URL
-# Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-# formspree_form_path: "f/a_form_id"
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /progetti/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+# Esclusioni
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
