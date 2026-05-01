@@ -38,7 +38,7 @@ description: Contact Giulia Miculan — archivist and project manager for art co
       </div>
 
       <div class="contact-areas">
-        <p>Available for projects in Italy and abroad, with experience working in Italy and Denmark.</p>
+        <p>Available for projects in Italy and abroad, with work experience in Italy and Denmark.</p>
         <p>Open to collaborations in:</p>
         <p>
           Cataloguation and digitization — Collection maintenance —
