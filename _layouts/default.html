@@ -27,11 +27,13 @@
         {% if lang == 'it' %}
         <a href="/it/"{% if page.url == "/it/" %} class="active"{% endif %}>Home</a>
         <a href="/it/lavoro/"{% if page.url contains "/it/lavoro" %} class="active"{% endif %}>Lavoro</a>
+        <a href="/it/portfolio/"{% if page.url contains "/it/portfolio" %} class="active"{% endif %}>Portfolio</a>
         <a href="/it/contatti/"{% if page.url contains "/it/contatti" %} class="active"{% endif %}>Contatti</a>
         <a href="{{ page.lang_alt_url | default: '/' }}" class="lang-switch">EN</a>
         {% else %}
         <a href="{{ '/' | relative_url }}"{% if page.url == "/" %} class="active"{% endif %}>Home</a>
         <a href="{{ '/work/' | relative_url }}"{% if page.url contains "work" %} class="active"{% endif %}>Work</a>
+        <a href="{{ '/portfolio/' | relative_url }}"{% if page.url contains "/portfolio" %} class="active"{% endif %}>Portfolio</a>
         <a href="{{ '/contact/' | relative_url }}"{% if page.url contains "contact" %} class="active"{% endif %}>Contact</a>
         <a href="{{ page.lang_alt_url | default: '/it/' }}" class="lang-switch">IT</a>
         {% endif %}

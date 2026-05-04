@@ -1,0 +1,154 @@
+---
+layout: default
+title: Portfolio
+permalink: /portfolio/
+lang: en
+lang_alt_url: /it/portfolio/
+description: A photo selection from conservation, collection management and archive projects by Giulia Miculan.
+---
+
+<section class="page-hero">
+  <div class="wrap">
+    <p class="section-label">Portfolio</p>
+    <h1>Work in images</h1>
+  </div>
+</section>
+
+<section class="portfolio-credits">
+  <div class="wrap">
+    <div class="portfolio-credits-grid">
+
+      <div>
+        <p class="section-label">Artists</p>
+        <ul class="portfolio-list">
+          <li>Catrine Raben Davidsen, Horsens Kunstmuseum (DK) – paintings and watercolours.</li>
+          <li>Amanda Betz, Vendsyssel Kunstmuseum (DK) – cut-off works on paper.</li>
+          <li>Carl-Henning Pedersen, CHP &amp; EA Museum (DK) – paintings and bronze sculptures in storage.</li>
+          <li>Vivian Maier, Aalborg Kunsten (DK) – photographs.</li>
+          <li>Soheila Sokhanvari, ARoS Aarhus Kunstmuseum (DK) – watercolours on paper.</li>
+          <li>Giovanni Meloni, Associazione Archivio Meloni, Verona – paintings on canvas and drawings.</li>
+          <li>Eugenio Degani, Galleria d'arte Moderna Achille Forti, Verona – series "Cuore e cilindro", 1970.</li>
+          <li>Luciano Fabro, ArtVerona fair – installation "Nord, sud, est, ovest giocano a Shangai", 1989–94.</li>
+        </ul>
+      </div>
+
+      <div>
+        <p class="section-label">Collection work</p>
+        <ul class="portfolio-list">
+          <li>ARoS Aarhus Kunstmuseum (DK) – permanent collection maintenance.</li>
+          <li>Tønder Kunstmuseet (DK) – permanent collection maintenance.</li>
+          <li>Fondazione Agiverona, Giorgio e Anna Fasol Collection – maintenance and condition reports for works in storage.</li>
+          <li>Musei Reali di Torino – collection and gallery maintenance, condition reports.</li>
+          <li>Exhibition "Contemporanee/contemporanei", Fondazione Agiverona &amp; UniVR – maintenance and condition reports.</li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="photo-portfolio">
+  <div class="wrap">
+    <div class="photo-grid">
+
+      <figure class="photo-item">
+        <img src="/assets/images/2025.07_Danimarca%20Ornella%20Scarpa%20chiese%20Vivild%20Auning.jpeg" alt="Wooden altar restoration, Vivild and Auning, Denmark" loading="lazy">
+        <figcaption>Wooden altar restoration — Churches of Vivild and Auning, Denmark — July 2025</figcaption>
+      </figure>
+
+      <figure class="photo-item photo-item--video">
+        <div class="video-thumb">
+          <video src="/assets/images/2024.07_spolvero%20ARoS%20Ron%20Muek.mov" preload="metadata" muted playsinline></video>
+          <div class="video-play-btn"><span>▶</span></div>
+        </div>
+        <figcaption>Dusting — ARoS Aarhus Art Museum (Ron Mueck exhibition), Denmark — July 2024</figcaption>
+      </figure>
+
+      <figure class="photo-item">
+        <img src="/assets/images/2025.05_Archivio%20Meloni.JPG" alt="Artist archive Giovanni Meloni, Verona" loading="lazy">
+        <figcaption>Artist Archive Giovanni Meloni — Verona — May 2025</figcaption>
+      </figure>
+
+      <figure class="photo-item">
+        <img src="/assets/images/2025.05_Disegni%20Meloni.jpg" alt="Drawings, Giovanni Meloni Archive, Verona" loading="lazy">
+        <figcaption>Drawings — Giovanni Meloni Archive, Verona — May 2025</figcaption>
+      </figure>
+
+      <figure class="photo-item">
+        <img src="/assets/images/2024.09_applicazione%20oro%20danimarca.JPG" alt="Gold leaf application, Denmark" loading="lazy">
+        <figcaption>Gold leaf application — Denmark — September 2024</figcaption>
+      </figure>
+
+      <figure class="photo-item">
+        <img src="/assets/images/2024.08_Vendsyssel%20Kunstmuseum_Amanda%20Betz.jpg" alt="Vendsyssel Kunstmuseum, Denmark" loading="lazy">
+        <figcaption>Vendsyssel Kunstmuseum — Denmark — August 2024</figcaption>
+      </figure>
+
+      <figure class="photo-item">
+        <img src="/assets/images/2024.05_Condition%20Report%20Tonder%20Museum.JPG" alt="Condition report, Tønder Museum, Denmark" loading="lazy">
+        <figcaption>Condition report — Tønder Museum, Denmark — May 2024</figcaption>
+      </figure>
+
+    </div>
+  </div>
+</section>
+
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Image viewer">
+  <button class="lightbox-close" id="lightbox-close" aria-label="Close">×</button>
+  <figure class="lightbox-figure">
+    <img src="" alt="" id="lightbox-img">
+    <video id="lightbox-video" controls playsinline style="display:none"></video>
+    <figcaption id="lightbox-caption"></figcaption>
+  </figure>
+</div>
+
+<script>
+(function() {
+  var lightbox = document.getElementById('lightbox');
+  var lbImg    = document.getElementById('lightbox-img');
+  var lbVideo  = document.getElementById('lightbox-video');
+  var lbCap    = document.getElementById('lightbox-caption');
+  var lbClose  = document.getElementById('lightbox-close');
+
+  document.querySelectorAll('.photo-item:not(.photo-item--video) img').forEach(function(img) {
+    img.addEventListener('click', function() {
+      lbImg.src = img.src;
+      lbImg.alt = img.alt;
+      lbImg.style.display = '';
+      lbVideo.style.display = 'none';
+      lbCap.textContent = img.closest('figure').querySelector('figcaption').textContent;
+      lightbox.classList.add('is-open');
+      document.body.style.overflow = 'hidden';
+    });
+  });
+
+  document.querySelectorAll('.photo-item--video').forEach(function(item) {
+    item.addEventListener('click', function() {
+      lbVideo.src = item.querySelector('video').src;
+      lbVideo.style.display = '';
+      lbImg.style.display = 'none';
+      lbImg.src = '';
+      lbCap.textContent = item.querySelector('figcaption').textContent;
+      lightbox.classList.add('is-open');
+      document.body.style.overflow = 'hidden';
+      lbVideo.play();
+    });
+  });
+
+  function closeLightbox() {
+    lightbox.classList.remove('is-open');
+    document.body.style.overflow = '';
+    lbImg.src = '';
+    lbVideo.pause();
+    lbVideo.src = '';
+  }
+
+  lbClose.addEventListener('click', closeLightbox);
+  lightbox.addEventListener('click', function(e) {
+    if (e.target === lightbox) closeLightbox();
+  });
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') closeLightbox();
+  });
+})();
+</script>

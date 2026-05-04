@@ -1,0 +1,154 @@
+---
+layout: default
+title: Portfolio
+permalink: /it/portfolio/
+lang: it
+lang_alt_url: /portfolio/
+description: Una selezione fotografica di progetti di restauro, gestione delle collezioni e archivi d'artista di Giulia Miculan.
+---
+
+<section class="page-hero">
+  <div class="wrap">
+    <p class="section-label">Portfolio</p>
+    <h1>Il lavoro in immagini</h1>
+  </div>
+</section>
+
+<section class="portfolio-credits">
+  <div class="wrap">
+    <div class="portfolio-credits-grid">
+
+      <div>
+        <p class="section-label">Artisti trattati</p>
+        <ul class="portfolio-list">
+          <li>Catrine Raben Davidsen, Horsens Kunstmuseum (DK) – dipinti e acquerelli.</li>
+          <li>Amanda Betz, Vendsyssel Kunstmuseum (DK) – opere su carta cut-off.</li>
+          <li>Carl-Henning Pedersen, CHP &amp; EA Museum (DK) – dipinti e sculture in bronzo nei depositi.</li>
+          <li>Vivian Maier, Aalborg Kunsten (DK) – fotografie.</li>
+          <li>Soheila Sokhanvari, ARoS Aarhus Kunstmuseum (DK) – acquerelli su carta.</li>
+          <li>Giovanni Meloni, Associazione Archivio Meloni, Verona – dipinti su tela e disegni.</li>
+          <li>Eugenio Degani, Galleria d'arte Moderna Achille Forti, Verona – serie "Cuore e cilindro", 1970.</li>
+          <li>Luciano Fabro, fiera ArtVerona – allestimento "Nord, sud, est, ovest giocano a Shangai", 1989–94.</li>
+        </ul>
+      </div>
+
+      <div>
+        <p class="section-label">Interventi su collezioni</p>
+        <ul class="portfolio-list">
+          <li>ARoS Aarhus Kunstmuseum (DK) – manutenzione opere collezione permanente.</li>
+          <li>Tønder Kunstmuseet (DK) – manutenzione opere collezione permanente.</li>
+          <li>Fondazione Agiverona, Collezione Giorgio e Anna Fasol – manutenzione e condition report opere in deposito.</li>
+          <li>Musei Reali di Torino – manutenzione collezione e sale espositive, condition report.</li>
+          <li>Esposizione "Contemporanee/contemporanei", Fondazione Agiverona e UniVR – manutenzione opere e condition report.</li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="photo-portfolio">
+  <div class="wrap">
+    <div class="photo-grid">
+
+      <figure class="photo-item">
+        <img src="/assets/images/2025.07_Danimarca%20Ornella%20Scarpa%20chiese%20Vivild%20Auning.jpeg" alt="Restauro altari lignei, chiese di Vivild e Auning, Danimarca" loading="lazy">
+        <figcaption>Restauro altari lignei — Chiese di Vivild e Auning, Danimarca — Luglio 2025</figcaption>
+      </figure>
+
+      <figure class="photo-item photo-item--video">
+        <div class="video-thumb">
+          <video src="/assets/images/2024.07_spolvero%20ARoS%20Ron%20Muek.mov" preload="metadata" muted playsinline></video>
+          <div class="video-play-btn"><span>▶</span></div>
+        </div>
+        <figcaption>Spolvero — ARoS Aarhus Art Museum (mostra Ron Mueck), Danimarca — Luglio 2024</figcaption>
+      </figure>
+
+      <figure class="photo-item">
+        <img src="/assets/images/2025.05_Archivio%20Meloni.JPG" alt="Archivio d'artista Giovanni Meloni, Verona" loading="lazy">
+        <figcaption>Archivio d'artista Giovanni Meloni — Verona — Maggio 2025</figcaption>
+      </figure>
+
+      <figure class="photo-item">
+        <img src="/assets/images/2025.05_Disegni%20Meloni.jpg" alt="Disegni, Archivio Giovanni Meloni, Verona" loading="lazy">
+        <figcaption>Disegni — Archivio Giovanni Meloni, Verona — Maggio 2025</figcaption>
+      </figure>
+
+      <figure class="photo-item">
+        <img src="/assets/images/2024.09_applicazione%20oro%20danimarca.JPG" alt="Applicazione foglia d'oro, Danimarca" loading="lazy">
+        <figcaption>Applicazione foglia d'oro — Danimarca — Settembre 2024</figcaption>
+      </figure>
+
+      <figure class="photo-item">
+        <img src="/assets/images/2024.08_Vendsyssel%20Kunstmuseum_Amanda%20Betz.jpg" alt="Vendsyssel Kunstmuseum, Danimarca" loading="lazy">
+        <figcaption>Vendsyssel Kunstmuseum — Danimarca — Agosto 2024</figcaption>
+      </figure>
+
+      <figure class="photo-item">
+        <img src="/assets/images/2024.05_Condition%20Report%20Tonder%20Museum.JPG" alt="Condition report, Tønder Museum, Danimarca" loading="lazy">
+        <figcaption>Condition report — Tønder Museum, Danimarca — Maggio 2024</figcaption>
+      </figure>
+
+    </div>
+  </div>
+</section>
+
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Visualizzatore immagini">
+  <button class="lightbox-close" id="lightbox-close" aria-label="Chiudi">×</button>
+  <figure class="lightbox-figure">
+    <img src="" alt="" id="lightbox-img">
+    <video id="lightbox-video" controls playsinline style="display:none"></video>
+    <figcaption id="lightbox-caption"></figcaption>
+  </figure>
+</div>
+
+<script>
+(function() {
+  var lightbox = document.getElementById('lightbox');
+  var lbImg    = document.getElementById('lightbox-img');
+  var lbVideo  = document.getElementById('lightbox-video');
+  var lbCap    = document.getElementById('lightbox-caption');
+  var lbClose  = document.getElementById('lightbox-close');
+
+  document.querySelectorAll('.photo-item:not(.photo-item--video) img').forEach(function(img) {
+    img.addEventListener('click', function() {
+      lbImg.src = img.src;
+      lbImg.alt = img.alt;
+      lbImg.style.display = '';
+      lbVideo.style.display = 'none';
+      lbCap.textContent = img.closest('figure').querySelector('figcaption').textContent;
+      lightbox.classList.add('is-open');
+      document.body.style.overflow = 'hidden';
+    });
+  });
+
+  document.querySelectorAll('.photo-item--video').forEach(function(item) {
+    item.addEventListener('click', function() {
+      lbVideo.src = item.querySelector('video').src;
+      lbVideo.style.display = '';
+      lbImg.style.display = 'none';
+      lbImg.src = '';
+      lbCap.textContent = item.querySelector('figcaption').textContent;
+      lightbox.classList.add('is-open');
+      document.body.style.overflow = 'hidden';
+      lbVideo.play();
+    });
+  });
+
+  function closeLightbox() {
+    lightbox.classList.remove('is-open');
+    document.body.style.overflow = '';
+    lbImg.src = '';
+    lbVideo.pause();
+    lbVideo.src = '';
+  }
+
+  lbClose.addEventListener('click', closeLightbox);
+  lightbox.addEventListener('click', function(e) {
+    if (e.target === lightbox) closeLightbox();
+  });
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') closeLightbox();
+  });
+})();
+</script>
