@@ -43,7 +43,7 @@ description: Esperienza lavorativa di Giulia Miculan — archivista e project ma
       <div class="exp-item">
         <div class="exp-aside">
           <span class="exp-org">SMdot Contemporary Art Gallery</span>
-          <span class="exp-date">Aprile 2026 – in corso</span>
+          <span class="exp-date">Aprile 2026</span>
           <span class="exp-role">Assistente di galleria – Udine, Italia</span>
         </div>
         <div class="exp-body">
