@@ -43,7 +43,7 @@ description: Working experience of Giulia Miculan — archivist and project mana
       <div class="exp-item">
         <div class="exp-aside">
           <span class="exp-org">SMdot Contemporary Art Gallery</span>
-          <span class="exp-date">April 2026 – ongoing</span>
+          <span class="exp-date">April 2026</span>
           <span class="exp-role">Gallery Assistant – Udine, Italy</span>
         </div>
         <div class="exp-body">
