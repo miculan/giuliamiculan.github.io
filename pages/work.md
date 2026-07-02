@@ -118,7 +118,7 @@ description: Working experience of Giulia Miculan — archivist and project mana
         <div class="exp-body">
           <p>Conservation maintenance of Danish museum collections, condition reporting and conservation of paintings.</p>
           <div class="exp-task">
-            <span class="exp-task-title">Condition Report Campaign</span>
+            <p><strong>Condition Report Campaign</strong></p>
             <ul class="exp-list-items">
               <li>Vendsyssel Kunstmuseum — Amanda Betz, cut-off paper works</li>
               <li>Carl-Henning Pedersen &amp; E.A. Museum — canvas paintings and sculptures in storage</li>
