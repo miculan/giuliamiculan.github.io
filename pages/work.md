@@ -91,7 +91,20 @@ description: Working experience of Giulia Miculan — archivist and project mana
           <span class="exp-role">Conservator Intern – Udine, Italy</span>
         </div>
         <div class="exp-body">
-          <p>Conservation of paintings, wooden and metal artifacts; conservation of a 16th-century building's façade. Management of photographic documentation.</p>
+          <div class="exp-task">
+            <p><strong>Stone elements of Palazzo Morpurgo (17th century, Udine)</strong>: dry and chemical cleaning. Treatment of metal elements (paint stripping, anti-rust treatment, painting). Sanding, filling with two-component resin, and painting of window and door fixtures.</p>
+          </div>
+          <div class="exp-task">
+            <p><strong>Marble clocks and copper wall sconces (19th century)</strong>: cleaning and polishing.</p>
+          </div>
+          <div class="exp-task">
+            <p><strong>Paintings on canvas (19th century)</strong>: removal of yellowed varnish; lining with flour-paste adhesive; reconstruction of the frame's decorative motif and gilding.</p>
+          </div>
+          <div class="exp-task">
+            <p><strong>Decorative wood and iron panoplies (Miramare Castle, Trieste)</strong>: aqueous cleaning; wax filling and painting.</p>
+          </div>
+          <div class="exp-task">
+            <p><strong>Granite grand staircase (Palazzo Paternolli, 17th century, Gorizia)</strong>: deep and fine filling.</p>
         </div>
       </div>
 
