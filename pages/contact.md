@@ -41,7 +41,7 @@ description: Contact Giulia Miculan — archivist and project manager for art co
         <p>Available for projects in Italy and abroad, with work experience in Italy and Denmark.</p>
         <p>Open to collaborations in:</p>
         <p>
-          Cataloguation and digitization — Collection maintenance —
+          Cataloguing and digitization — Collection maintenance —
           Reorganization of deposits — Condition reporting —
           Enhancement and protection plans for artist legacies —
           Artistic research and consultancy
