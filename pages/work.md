@@ -105,6 +105,7 @@ description: Working experience of Giulia Miculan — archivist and project mana
           </div>
           <div class="exp-task">
             <p><strong>Granite grand staircase (Palazzo Paternolli, 17th century, Gorizia)</strong>: deep and fine filling.</p>
+          </div>
         </div>
       </div>
 
@@ -125,11 +126,10 @@ description: Working experience of Giulia Miculan — archivist and project mana
               <li>Aarhus ARoS — Soheila Sokhanvari, watercolors on paper; routine maintenance of the permanent collection</li>
               <li>Horsens Kunstmuseum — Cathrine Raben Davidsen, watercolors on paper</li>
               <li>Tønder Kunstmuseet — modern paintings from the permanent collection</li>
-               <div class="exp-task">
-             </div>
+            </ul>
+          </div>
           <div class="exp-task">
             <p><strong>Conservation treatments</strong>: application of lining strips, filling of canvas and frame losses, varnish retouching (inpainting), and spray varnishing.</p>
-            </ul>
           </div>
         </div>
       </div>
@@ -166,10 +166,10 @@ description: Working experience of Giulia Miculan — archivist and project mana
             <p><strong>Polychrome wooden sculpture</strong>: “Madonna and Child,” 16th century. Stratigraphic analysis, consolidation of lifting paint/gesso, mechanical and chemical removal of overpainting.</p>
            </div>
           <div class="exp-task">
-            <p><strong>Polychrome wooden panels</strong>: “Annunciation of the Virgin,” Costantino Pasqualotto, 18th century.Consolidation, anti-rust treatment of metal elements, insertion of a wooden plug (butterfly key) for the central split, filling with epoxy resin.</p>
+            <p><strong>Polychrome wooden panels</strong>: “Annunciation of the Virgin,” Costantino Pasqualotto, 18th century. Consolidation, anti-rust treatment of metal elements, insertion of a wooden plug (butterfly key) for the central split, filling with epoxy resin.</p>
            </div>
           <div class="exp-task">
-            <p><strong>Oil painting on canvas</p>: “Portrait of a Scholar,” School of Veronese, 16th century. Varnish removal, filling, pictorial retouching, varnishing. Tempera painting on panel: ex-voto tablets from the Castelvecchio Museum, 18th century. Chemical cleaning, filling of losses, and watercolor retouching.</p>
+            <p><strong>Oil painting on canvas</strong>: “Portrait of a Scholar,” School of Veronese, 16th century. Varnish removal, filling, pictorial retouching, varnishing. Tempera painting on panel: ex-voto tablets from the Castelvecchio Museum, 18th century. Chemical cleaning, filling of losses, and watercolor retouching.</p>
           </div>
         </div>
       </div>
