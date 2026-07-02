@@ -97,14 +97,14 @@ description: Working experience of Giulia Miculan — archivist and project mana
 
       <div class="exp-item">
         <div class="exp-aside">
-          <span class="exp-org">Kunstkonserveringen</span>
+          <span class="exp-org">Kunstkonserveringen (Danish Museum Centre for Conservation of Art)</span>
           <span class="exp-date">May – September 2024</span>
-          <span class="exp-role">Registrar and Conservator Intern – Silkeborg, Denmark</span>
+          <span class="exp-role">Erasmus+ internship – Silkeborg, Denmark</span>
         </div>
         <div class="exp-body">
-          <p>Post-graduate Erasmus traineeship at the Danish Centre for Conservation of Art: condition report and preventive conservation maintenance of Danish museum collections; conservation of paintings.</p>
+          <p>Conservation maintenance of Danish museum collections, condition reporting and conservation of paintings.</p>
           <div class="exp-task">
-            <span class="exp-task-title">Condition reporting</span>
+            <span class="exp-task-title">Condition Report Campaign</span>
             <ul class="exp-list-items">
               <li>Vendsyssel Kunstmuseum — Amanda Betz, cut-off paper works</li>
               <li>Carl-Henning Pedersen &amp; E.A. Museum — canvas paintings and sculptures in storage</li>
@@ -112,6 +112,10 @@ description: Working experience of Giulia Miculan — archivist and project mana
               <li>Aarhus ARoS — Soheila Sokhanvari, watercolors on paper; routine maintenance of the permanent collection</li>
               <li>Horsens Kunstmuseum — Cathrine Raben Davidsen, watercolors on paper</li>
               <li>Tønder Kunstmuseet — modern paintings from the permanent collection</li>
+               <div class="exp-task">
+             </div>
+          <div class="exp-task">
+            <p><strong>Conservation treatments</strong>: application of lining strips, filling of canvas and frame losses, varnish retouching (inpainting), and spray varnishing.</p>
             </ul>
           </div>
         </div>
@@ -119,25 +123,40 @@ description: Working experience of Giulia Miculan — archivist and project mana
 
       <div class="exp-item">
         <div class="exp-aside">
-          <span class="exp-org">Fine Arts Academy of Verona</span>
-          <span class="exp-date">2021–2024</span>
+          <span class="exp-org">Verona Fine Arts Academy</span>
+          <span class="exp-date">2018–2024</span>
           <span class="exp-role">Student Projects</span>
         </div>
         <div class="exp-body">
           <div class="exp-task">
-            <p><strong>Royal Museums of Turin</strong> — Curricular traineeship: periodical maintenance of exhibition rooms, condition report and conservation of collection paintings, assistance on photographic documentation and diagnostic investigations on Sandro Botticelli's <em>Study of Venus</em> (Ve.n.e.re. project).</p>
+            <p><strong>Alkyd and vinyl painting on canvas</strong>: “Untitled (Woman),” Giovanni Meloni, 1974. Thesis project. Preliminary diagnostic tests, dry cleaning, flattening of the support, consolidation, varnish retouching.</p>
           </div>
           <div class="exp-task">
-            <p><strong>ArtVerona ArtFair</strong> — Team set-up and condition report of art installation <em>Nord, Sud, Est, Ovest giocano a shangai</em> by Luciano Fabro (1989–94).</p>
+            <p><strong>Collection Registrar (Fondazione Agiverona)</strong>: biannual maintenance and condition reporting for artworks donated by Giorgio Fasol to the University of Verona.</p>
           </div>
           <div class="exp-task">
-            <p><strong>Agiverona collection</strong> — Periodical maintenance of the contemporary art collection of Giorgio and Anna Fasol.</p>
+            <p><strong>Exhibition Registrar (ArtVerona)</strong>: installation and condition reporting for the artwork *Nord, sud, est, ovest giocano a shangai* (Luciano Fabro, 1989–94).</p>
           </div>
           <div class="exp-task">
-            <p><strong>"Achille Forti" Modern Art Gallery, Verona</strong> — Condition report of <em>Cuore e Cilindro</em> series by Eugenio Degani (1970); conservation of art installation <em>A and Z waiting for love</em> by Alik Cavaliere (1971).</p>
+            <p><strong>Mixed-media installation</strong>: “A e Z aspettano l’amore” (A and Z Wait for Love), Alik Cavaliere, 1969–73. Diagnostic analysis, cleaning tests, and cleaning using pH-controlled buffer solutions.</p>
           </div>
           <div class="exp-task">
-            <p><strong>Thesis project</strong> — Conservation of <em>No title (woman)</em> by Giovanni Meloni (1974). Object of a scientific publication at the 22nd IGIIC National Congress.</p>
+            <p><strong>Polychrome wooden altarpiece</strong>: “Saint Jerome among Saints”, unknown artist, 15th century. Cleaning with solvent gel, pictorial retouching.</p>
+          </div>
+          <div class="exp-task">
+            <p><strong>Oil painting on canvas</strong>: “Saint Anthony Gonzaga,” G.B. Cignaroli, 17th century. Cleaning tests with solvent gel, cleaning of the reverse side.</p>
+           </div>
+          <div class="exp-task">
+            <p><strong>Oil paintings on canvas</strong>: “Life of Saint Peter,” 16th-century painter. Thread-by-thread loss reconstruction, filling and mimetic retouching, tensioning and sizing of the lining canvas.</p>
+           </div>
+          <div class="exp-task">
+            <p><strong>Polychrome wooden sculpture</strong>: “Madonna and Child,” 16th century. Stratigraphic analysis, consolidation of lifting paint/gesso, mechanical and chemical removal of overpainting.</p>
+           </div>
+          <div class="exp-task">
+            <p><strong>Polychrome wooden panels</strong>: “Annunciation of the Virgin,” Costantino Pasqualotto, 18th century.Consolidation, anti-rust treatment of metal elements, insertion of a wooden plug (butterfly key) for the central split, filling with epoxy resin.</p>
+           </div>
+          <div class="exp-task">
+            <p><strong>Oil painting on canvas</p>: “Portrait of a Scholar,” School of Veronese, 16th century. Varnish removal, filling, pictorial retouching, varnishing. Tempera painting on panel: ex-voto tablets from the Castelvecchio Museum, 18th century. Chemical cleaning, filling of losses, and watercolor retouching.</p>
           </div>
         </div>
       </div>
