@@ -91,20 +91,34 @@ description: Esperienza lavorativa di Giulia Miculan — archivista e project ma
           <span class="exp-role">Tirocinante restauratrice – Udine, Italia</span>
         </div>
         <div class="exp-body">
-          <p>Conservazione di dipinti, manufatti in legno e metallo; conservazione della facciata di un edificio del XVI secolo. Gestione della documentazione fotografica.</p>
+          <div class="exp-task">
+            <p><strong>Elementi lapidei di Palazzo Morpurgo (XVII secolo, Udine)</strong>: pulitura a secco e chimica. Trattamento degli elementi metallici (sverniciatura, trattamento antiruggine, verniciatura). Carteggiatura, stuccatura con resina bicomponente e verniciatura di serramenti e infissi.</p>
+          </div>
+          <div class="exp-task">
+            <p><strong>Orologi in marmo e appliques in rame (XIX secolo)</strong>: pulitura e lucidatura.</p>
+          </div>
+          <div class="exp-task">
+            <p><strong>Dipinti su tela (XIX secolo)</strong>: rimozione della vernice ingiallita; foderatura con adesivo a pasta di farina; ricostruzione del motivo decorativo della cornice e doratura.</p>
+          </div>
+          <div class="exp-task">
+            <p><strong>Panoplie decorative in legno e ferro (Castello di Miramare, Trieste)</strong>: pulitura acquosa; stuccatura a cera e verniciatura.</p>
+          </div>
+          <div class="exp-task">
+            <p><strong>Scalone monumentale in granito (Palazzo Paternolli, XVII secolo, Gorizia)</strong>: stuccatura profonda e di finitura.</p>
+          </div>
         </div>
       </div>
 
       <div class="exp-item">
         <div class="exp-aside">
-          <span class="exp-org">Kunstkonserveringen</span>
+          <span class="exp-org">Kunstkonserveringen (Centro Danese per la Conservazione dell'Arte)</span>
           <span class="exp-date">Maggio – Settembre 2024</span>
-          <span class="exp-role">Tirocinante registrar e restauratrice – Silkeborg, Danimarca</span>
+          <span class="exp-role">Tirocinio Erasmus+ – Silkeborg, Danimarca</span>
         </div>
         <div class="exp-body">
-          <p>Tirocinio Erasmus post-laurea presso il Centro Danese per la Conservazione dell'Arte: condition report e manutenzione conservativa preventiva delle collezioni museali danesi; interventi conservativi su dipinti.</p>
+          <p>Manutenzione conservativa delle collezioni museali danesi, condition report e restauro di dipinti.</p>
           <div class="exp-task">
-            <span class="exp-task-title">Condition reporting</span>
+            <p><strong>Campagna di condition report</strong></p>
             <ul class="exp-list-items">
               <li>Vendsyssel Kunstmuseum — Amanda Betz, opere su carta ritagliata</li>
               <li>Carl-Henning Pedersen &amp; E.A. Museum — dipinti su tela e sculture in deposito</li>
@@ -114,30 +128,48 @@ description: Esperienza lavorativa di Giulia Miculan — archivista e project ma
               <li>Tønder Kunstmuseet — dipinti moderni dalla collezione permanente</li>
             </ul>
           </div>
+          <div class="exp-task">
+            <p><strong>Interventi conservativi</strong>: applicazione di bande di foderatura, stuccatura delle lacune su tela e cornice, ritocco pittorico a vernice (inpainting) e verniciatura a spruzzo.</p>
+          </div>
         </div>
       </div>
 
       <div class="exp-item">
         <div class="exp-aside">
           <span class="exp-org">Accademia di Belle Arti di Verona</span>
-          <span class="exp-date">2021–2024</span>
+          <span class="exp-date">2018–2024</span>
           <span class="exp-role">Progetti accademici</span>
         </div>
         <div class="exp-body">
           <div class="exp-task">
-            <p><strong>Musei Reali di Torino</strong> — Tirocinio curriculare: manutenzione periodica delle sale espositive, condition report e restauro dei dipinti della collezione, assistenza alla documentazione fotografica e indagini diagnostiche sullo <em>Studio di Venere</em> di Sandro Botticelli (progetto Ve.n.e.re.).</p>
+            <p><strong>Dipinto su tela con tecnica alchidica e vinilica</strong>: <em>Senza titolo (donna)</em>, Giovanni Meloni, 1974. Progetto di tesi. Test diagnostici preliminari, pulitura a secco, spianamento del supporto, consolidamento, ritocco pittorico a vernice.</p>
           </div>
           <div class="exp-task">
-            <p><strong>ArtVerona</strong> — Allestimento in team e condition report dell'installazione artistica <em>Nord, Sud, Est, Ovest giocano a shangai</em> di Luciano Fabro (1989–94).</p>
+            <p><strong>Registrar della collezione (Fondazione Agiverona)</strong>: manutenzione semestrale e condition report delle opere donate da Giorgio Fasol all'Università di Verona.</p>
           </div>
           <div class="exp-task">
-            <p><strong>Collezione Agiverona</strong> — Manutenzione periodica della collezione d'arte contemporanea di Giorgio e Anna Fasol.</p>
+            <p><strong>Registrar della mostra (ArtVerona)</strong>: allestimento e condition report dell'opera <em>Nord, sud, est, ovest giocano a shangai</em> (Luciano Fabro, 1989–94).</p>
           </div>
           <div class="exp-task">
-            <p><strong>Galleria d'Arte Moderna "Achille Forti", Verona</strong> — Condition report della serie <em>Cuore e Cilindro</em> di Eugenio Degani (1970); conservazione dell'installazione artistica <em>A e Z aspettano l'amore</em> di Alik Cavaliere (1971).</p>
+            <p><strong>Installazione con tecnica mista</strong>: <em>A e Z aspettano l'amore</em>, Alik Cavaliere, 1969–73. Analisi diagnostiche, test di pulitura e pulitura con soluzioni tampone a pH controllato.</p>
           </div>
           <div class="exp-task">
-            <p><strong>Tesi di laurea</strong> — Restauro di <em>Senza titolo (donna)</em> di Giovanni Meloni (1974). Oggetto di pubblicazione scientifica al 22° Congresso Nazionale IGIIC.</p>
+            <p><strong>Pala d'altare in legno policromo</strong>: <em>San Girolamo tra i Santi</em>, autore ignoto, XV secolo. Pulitura con gel solvente, ritocco pittorico.</p>
+          </div>
+          <div class="exp-task">
+            <p><strong>Dipinto a olio su tela</strong>: <em>Sant'Antonio Gonzaga</em>, G.B. Cignaroli, XVII secolo. Test di pulitura con gel solvente, pulitura del verso.</p>
+          </div>
+          <div class="exp-task">
+            <p><strong>Dipinti a olio su tela</strong>: <em>Storie di San Pietro</em>, pittore del XVI secolo. Ricostruzione delle lacune trama per trama, stuccatura e ritocco mimetico, tensionamento e appretto della tela di foderatura.</p>
+          </div>
+          <div class="exp-task">
+            <p><strong>Scultura in legno policromo</strong>: <em>Madonna col Bambino</em>, XVI secolo. Analisi stratigrafica, consolidamento dei sollevamenti di pellicola pittorica/gesso, rimozione meccanica e chimica delle ridipinture.</p>
+          </div>
+          <div class="exp-task">
+            <p><strong>Tavole in legno policromo</strong>: <em>Annunciazione della Vergine</em>, Costantino Pasqualotto, XVIII secolo. Consolidamento, trattamento antiruggine degli elementi metallici, inserimento di un tassello ligneo (farfalla) per la fenditura centrale, stuccatura con resina epossidica.</p>
+          </div>
+          <div class="exp-task">
+            <p><strong>Dipinto a olio su tela</strong>: <em>Ritratto di uno studioso</em>, Scuola del Veronese, XVI secolo. Rimozione della vernice, stuccatura, ritocco pittorico, verniciatura. Dipinto a tempera su tavola: tavolette ex-voto del Museo di Castelvecchio, XVIII secolo. Pulitura chimica, stuccatura delle lacune e ritocco ad acquerello.</p>
           </div>
         </div>
       </div>
